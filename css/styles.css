@@ -1,20 +1,24 @@
 body {
     color:#212121;
-font-family: 'Roboto',
-sans-serif;
+    /* Niewiem jak dodac kolejne czcionki alternatywne dla roboto, ale dodana jest rodzina bezszeryfowa     */
+font-family: 'Roboto',sans-serif;
+line-height: ;
 }
 h2 {
     font-size: 36px;
     font-weight: 700;
+    line-height: 0.85;
 }
 h3{
     font-size: 14px;
     font-weight: 700;
+    line-height: 1.17;
 }
 .h3_p {
     font-size: 14px;
     font-weight: 400;
     color: #757575;
+    line-height: 1.71;
 }
 
 .header_nav_li:hover,
@@ -31,6 +35,7 @@ h3{
     text-decoration: none;
     font-size: 14px;
     font-weight: 500;
+    line-height: 1.17;
 }
 .header_nav_ul,
 .section_ul,
@@ -45,6 +50,7 @@ h3{
     text-decoration: none;
      font-size: 14px;
      font-weight: 500;
+         line-height: 1.17;
 }
 
 .web {
@@ -57,28 +63,39 @@ h3{
     text-decoration: none;
     font-family: "Raleway";
     font-size: 26px;
-    font-weight: 400;
+    font-weight: 700;
+    line-height: 0.83;
 }
 h1 {
     font-size: 44px;
     font-weight: 900;
-    color: #1ffff0;
+    color: black;
+    line-height: 1.36;
 }
 
 
-.main_button button{
+.portfolio_buttons {
     cursor: pointer;
     font-size: 16px;
     font-weight: 500;
+    line-height: 1.62;
 }
+
+
+
 .main_button {
     font-size: 16px;
     font-weight: 700;
+    line-height: 1.87;
+        cursor: pointer;
+
 }
 
 .section_figcaption {
 font-size: 18px;
 font-weight: 700;
+    line-height: 2;
+
 }
 
 
@@ -86,9 +103,31 @@ font-weight: 700;
     font-size: 16px;
     font-weight: 400;
     color: #757575;
+    line-height: 1.87;
 }
 
 .figcaption_main {
     font-size: 16px;
     font-weight: 500;
+    line-height: 1.17;
+}
+.figcaption_span {
+    color: #757575;
+    font-weight: 400;
+}
+.address_li_1 {
+color: black;
+font-size: 14px;
+font-weight: 400;
+font-style: normal;
+line-height: 1.71;
+}
+
+.footer_a {
+color: black;
+font-size: 14px;
+font-weight: 400;
+font-style: normal;
+line-height: 1.71;
+text-decoration: none;
 }
