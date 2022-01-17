@@ -1,0 +1,94 @@
+body {
+    color:#212121;
+font-family: 'Roboto',
+sans-serif;
+}
+h2 {
+    font-size: 36px;
+    font-weight: 700;
+}
+h3{
+    font-size: 14px;
+    font-weight: 700;
+}
+.h3_p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #757575;
+}
+
+.header_nav_li:hover,
+.header_nav_li:focus,
+.header_mail:hover,
+.header_mail:focus,
+.header_tel:hover,
+.header_tel:focus {
+    color: #2196F3;
+}
+
+.header_nav_li {
+    color: #212121;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+}
+.header_nav_ul,
+.section_ul,
+.main_button_ul,
+.address_ul {
+        list-style-type: none;
+}
+
+.header_mail,
+.header_tel {
+    color: #757575;
+    text-decoration: none;
+     font-size: 14px;
+     font-weight: 500;
+}
+
+.web {
+    color: #2196F3;
+}
+.studio {
+    color: #212121;
+}
+.webstudio {
+    text-decoration: none;
+    font-family: "Raleway";
+    font-size: 26px;
+    font-weight: 400;
+}
+h1 {
+    font-size: 44px;
+    font-weight: 900;
+    color: #1ffff0;
+}
+
+
+.main_button button{
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+}
+.main_button {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.section_figcaption {
+font-size: 18px;
+font-weight: 700;
+}
+
+
+.section_figcaption_span {
+    font-size: 16px;
+    font-weight: 400;
+    color: #757575;
+}
+
+.figcaption_main {
+    font-size: 16px;
+    font-weight: 500;
+}
