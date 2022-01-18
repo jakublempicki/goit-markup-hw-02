@@ -14,11 +14,25 @@ h3{
     font-weight: 700;
     line-height: 1.17;
 }
+
 .h3_p {
     font-size: 14px;
     font-weight: 400;
     color: #757575;
     line-height: 1.71;
+}
+header {
+    background-color: #FFFFFF;
+}
+footer {
+    background-color: #2F303A;
+}
+.main_section1 {
+    background-color: #2F303A;
+}
+.main_section2,
+.main_section3 {
+    background-color: #F5F4FA;
 }
 
 .header_nav_li:hover,
@@ -59,6 +73,9 @@ h3{
 .studio {
     color: #212121;
 }
+.studio_footer {
+    color: white;
+}
 .webstudio {
     text-decoration: none;
     font-family: "Raleway";
@@ -69,7 +86,7 @@ h3{
 h1 {
     font-size: 44px;
     font-weight: 900;
-    color: black;
+    color: #FFFFFF;
     line-height: 1.36;
 }
 
@@ -88,6 +105,8 @@ h1 {
     font-weight: 700;
     line-height: 1.87;
         cursor: pointer;
+        background-color: #2196F3;
+        color: #FFFFFF;
 
 }
 
