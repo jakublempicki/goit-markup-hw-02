@@ -32,6 +32,9 @@ footer {
 }
 .main_section2,
 .main_section3 {
+    background-color: #FFFFFF;
+}
+.main_section4 {
     background-color: #F5F4FA;
 }
 
